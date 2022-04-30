@@ -1,0 +1,5 @@
+﻿  YoonJungBinQ11.c
+C:\Users\A\source\repos\YoonJungBinQ11\YoonJungBinQ11.c(11,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'float *'입니다.
+C:\Users\A\source\repos\YoonJungBinQ11\YoonJungBinQ11.c(12,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'float *'입니다.
+C:\Users\A\source\repos\YoonJungBinQ11\YoonJungBinQ11.c(7,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  YoonJungBinQ11.vcxproj -> C:\Users\A\source\repos\YoonJungBinQ11\Debug\YoonJungBinQ11.exe
