@@ -5,6 +5,7 @@
 
 int main()
 {
+    pirntf("add for git");
     int i;
     float ad;
     float  sum = 0;
